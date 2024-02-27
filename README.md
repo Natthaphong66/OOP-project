@@ -1,14 +1,19 @@
 # application title
 
 ## author: 
-```
+
   * id: 66114540229
   * name: Natthaphong Dibut
-## technology: [pygame/streamlit]
+
+## technology: streamlit
+
 ## application description:
-```
-```
-## presentation: [slide/canva/etc..] link [public/ubu]
-## video: link [public/ubu]
+รายละเอียดโครงงาน
+
+## presentation:
+[slide/canva/etc..] link [public/ubu]
+
+## video: link
+[public/ubu]
+
  xoxoxo
-```
