@@ -3,7 +3,7 @@
 ## author: 
 
   * id: 66114540229
-  * name: Natthaphong Dibut
+  * name: ณัฐพงษ์ ดีบุตร
 
 ## technology: streamlit
 
