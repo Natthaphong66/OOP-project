@@ -14,8 +14,9 @@ streamlit
 รายละเอียดโครงงาน
 ```
 ## presentation:
+[slide/canva/etc..]
 ```
-[slide/canva/etc..] link [public/ubu]
+https://www.canva.com/design/DAF_HhCogGU/RdERCUxZZ0OBeMskVFlsoA/view?utm_content=DAF_HhCogGU&utm_campaign=designshare&utm_medium=link&utm_source=editor&fbclid=IwAR3Z78aVUP7ZEgqeUOtp6iWMrRX8KsXJ2pWo9XztF1eCm3QjxAmoEelHklc#3
 ```
 ## video: link
 ```
