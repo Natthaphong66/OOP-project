@@ -20,5 +20,5 @@ https://www.canva.com/design/DAF_HhCogGU/RdERCUxZZ0OBeMskVFlsoA/view?utm_content
 ```
 ## video: link
 ```
-[public/ubu]
+https://drive.google.com/drive/folders/1KGdZAFkbyAlOb9szhWINrdbHbq_1XI3i?q=parent:1KGdZAFkbyAlOb9szhWINrdbHbq_1XI3i
 ```
