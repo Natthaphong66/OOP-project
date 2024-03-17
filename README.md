@@ -11,7 +11,7 @@ streamlit
 ```
 ## application description:
 ```
-รายละเอียดโครงงาน
+รายละเอียดโครงงาน เป็นเว็ปไซต์เกี่ยวกับ Liverpool Team เพื่อให้ศึกษาข้อมูลต่างๆของทีมลิเวอร์พูล
 ```
 ## presentation:
 [slide/canva/etc..]
